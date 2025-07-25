@@ -1,0 +1,20 @@
+{
+    "data": {
+        "ipAddress": "8.8.8.8",
+        "isPublic": true,
+        "ipVersion": 4,
+        "isWhitelisted": true,
+        "abuseConfidenceScore": 0,
+        "countryCode": "US",
+        "usageType": "Content Delivery Network",
+        "isp": "Google LLC",
+        "domain": "google.com",
+        "hostnames": [
+            "dns.google"
+        ],
+        "isTor": false,
+        "totalReports": 110,
+        "numDistinctUsers": 33,
+        "lastReportedAt": "2025-07-16T16:50:04+00:00"
+    }
+}
